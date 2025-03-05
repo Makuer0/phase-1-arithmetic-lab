@@ -11,7 +11,7 @@ let num4 = 6;
 
 let multiply = num1 * num2;
 
-const random = Math.floor(Math.random() * 5);
+const random = Math.floor(Math.random() * 100);
 
 let mod = num3 % num4;
 
